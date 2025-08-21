@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "imposter",
+			"path": "../imposter"
+		}
+	],
+	"settings": {}
+}
